@@ -52,3 +52,6 @@ languages:
         - identifier: RSS
           name: RSS
           url: /index.xml
+        - identifier: "TIL"
+          name: "TIL"
+          url: /til
